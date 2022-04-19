@@ -1,0 +1,110 @@
+/* Accordion */
+
+.sidenav {
+	padding: 0; 
+	margin: 0;
+	overflow: hidden;
+}
+
+ul.topnav {
+	width: 100%;
+	float: left;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+ul.topnav li {	
+	list-style: none;	
+	padding: 10px 0;	
+	margin: 0;
+}
+
+.prod-pg ul.topnav li {
+	border-bottom:1px solid #B4B4B4;
+}
+
+ul.topnav li:last-child {
+	border-bottom: none;
+}
+
+/*------Sec lvl-----*/
+
+ul.topnav li a {	
+	color: #002843;
+	display: block;	
+	font-size:22px;
+	font-weight: 700;
+	line-height: 1.5em;
+	text-transform: capitalize;
+	text-decoration: none;	
+	text-align: left;
+}
+
+.prod-pg ul.topnav li a {
+	font-size: 17px;
+	font-weight: 500;
+	color: #191919;
+}
+
+ul.topnav li:hover a,
+ul.topnav li.active a {
+	color: #F29100 !important;
+}
+
+ul.topnav ul {	
+	margin: 0;
+	padding: 0 0 15px 0;
+	display: none;
+}
+
+ul.topnav ul ul {	
+	margin: 0;
+	padding: 0 0 15px 10px;
+}
+
+ul.topnav ul li {
+	margin: 0;
+	padding: 0;
+	clear: both;	
+	list-style: none; 
+	border: none !important;
+}
+
+ul.topnav ul li a,
+ul.topnav ul ul li a {	
+	color: #3B3B3B;
+	font-size: 16px;
+	font-weight: 400 !important;
+	display: block;
+	padding: 4px 0 !important;
+	border:0 !important;
+}
+
+ul.topnav ul li:not(.active) a,
+ul.topnav ul ul li:not(.active) a,
+ul.topnav ul ul ul li:not(.active) a {
+    color: #3B3B3B !important;
+	font-weight: 400 !important;
+}
+
+ul.topnav ul li.active a, ul.topnav ul li a:hover, ul.topnav ul li a.active,
+ul.topnav ul ul li.active a, ul.topnav ul ul li a:hover, ul.topnav ul ul li a.active,  /*third lv*/
+ul.topnav ul ul ul li.active a, ul.topnav ul ul ul li a:hover, ul.topnav ul ul ul li a.active {
+	color: #48B59E !important;
+	text-decoration: none;
+}
+
+ul.topnav span {
+	float: right;
+	margin-top: 15px;
+	margin-left: 35px;
+}
+
+.prod-pg ul.topnav span {
+	margin-top: 11px;
+}
+
+ul.topnav li.active ul span {
+	margin-top: 9px;
+}

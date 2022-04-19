@@ -1,0 +1,228 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1224.096" height="1939.736" viewBox="0 0 1224.096 1939.736">
+  <g id="Group_2289" data-name="Group 2289" transform="translate(-307 -2776)">
+    <g id="Group_2284" data-name="Group 2284" transform="translate(0 -142)">
+      <rect id="Rectangle_1480" data-name="Rectangle 1480" width="171" height="58" rx="6" transform="translate(1150 2918)" fill="#eaeaea"/>
+      <text id="Landing" transform="translate(1172 2934)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-38.496" y="21">Landing</tspan></text>
+      <g id="Group_2251" data-name="Group 2251" transform="translate(110)">
+        <line id="Line_2" data-name="Line 2" y2="57" transform="translate(1122.5 2976.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1481" data-name="Rectangle 1481" width="94" height="94" transform="translate(1233.5 3040) rotate(45)" fill="#e8644f"/>
+      <text id="Sign_In" data-name="Sign In" transform="translate(1187 3093)" fill="#fff" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-32.192" y="21">Sign In</tspan></text>
+      <line id="Line_3" data-name="Line 3" x1="320" transform="translate(847.5 3106.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Group_2252" data-name="Group 2252" transform="translate(-275.5 122)">
+        <line id="Line_2-2" data-name="Line 2" y2="49" transform="translate(1122.5 2984.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-2" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1482" data-name="Rectangle 1482" width="94" height="94" transform="translate(847.468 3162) rotate(45)" fill="#e8644f"/>
+      <text id="Have_Account" data-name="Have Account" transform="translate(800.968 3194)" fill="#fff" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-24.424" y="21">Have </tspan><tspan x="-39.248" y="46">Account</tspan></text>
+      <g id="Group_2253" data-name="Group 2253" transform="translate(3695.5 2105.5) rotate(90)">
+        <line id="Line_2-3" data-name="Line 2" y2="119" transform="translate(1122.5 2914.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-3" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1483" data-name="Rectangle 1483" width="171" height="58" rx="6" transform="translate(485 3200)" fill="#eaeaea"/>
+      <text id="Sign_In-2" data-name="Sign In" transform="translate(507 3216)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-32.192" y="21">Sign In</tspan></text>
+      <text id="Yes" transform="translate(975 3074)" fill="#212121" font-size="20" font-family="OpenSans, Open Sans"><tspan x="-15.483" y="21">Yes</tspan></text>
+      <text id="Yes-2" data-name="Yes" transform="translate(677 3198)" fill="#212121" font-size="20" font-family="OpenSans, Open Sans"><tspan x="-15.483" y="21">Yes</tspan></text>
+      <g id="Group_2254" data-name="Group 2254" transform="translate(-2000.5 4351.5) rotate(-90)">
+        <line id="Line_2-4" data-name="Line 2" y2="119" transform="translate(1122.5 2914.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-4" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <text id="No" transform="translate(935.5 3198)" fill="#212121" font-size="20" font-family="OpenSans, Open Sans"><tspan x="-13.579" y="21">No</tspan></text>
+      <rect id="Rectangle_1484" data-name="Rectangle 1484" width="171" height="58" rx="6" transform="translate(1040 3200)" fill="#eaeaea"/>
+      <text id="Sign_Up" data-name="Sign Up" transform="translate(1062 3216)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-36.445" y="21">Sign Up</tspan></text>
+      <rect id="Rectangle_1485" data-name="Rectangle 1485" width="219" height="86" rx="6" transform="translate(1016 3365)" fill="#eaeaea"/>
+      <text id="Input_Name_Email_password_" data-name="Input Name Email password " transform="translate(1052 3381)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="20.039" y="21">Input Name </tspan><tspan x="1.997" y="46">Email password </tspan></text>
+      <g id="Group_2255" data-name="Group 2255" transform="translate(5 325.5)">
+        <line id="Line_2-5" data-name="Line 2" y2="101.5" transform="translate(1122.5 2932)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-5" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1486" data-name="Rectangle 1486" width="219" height="86" rx="6" transform="translate(456 3365)" fill="#eaeaea"/>
+      <text id="Input_Email_password_" data-name="Input Email password " transform="translate(492 3381)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="22.476" y="21">Input Email </tspan><tspan x="31.113" y="46">password </tspan></text>
+      <g id="Group_2256" data-name="Group 2256" transform="translate(-555 325.5)">
+        <line id="Line_2-6" data-name="Line 2" y2="101.5" transform="translate(1122.5 2932)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-6" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <line id="Line_4" data-name="Line 4" x1="233.5" transform="translate(1297 3106.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Group_2257" data-name="Group 2257" transform="translate(4251 2428) rotate(90)">
+        <line id="Line_2-7" data-name="Line 2" y2="311" transform="translate(1122.5 2722.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-7" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <path id="Path_1870" data-name="Path 1870" d="M.192,0l-1.6,444.5" transform="translate(1530.404 3106.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <path id="Path_1871" data-name="Path 1871" d="M-1.273,0l-.138,38.352" transform="translate(568.637 3451)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Line_5" data-name="Line 5" x1="561.5" transform="translate(567 3489.352)" fill="none" stroke="#707070" stroke-width="1"/>
+      <rect id="Rectangle_1487" data-name="Rectangle 1487" width="171" height="58" rx="6" transform="translate(1040 3522)" fill="#eaeaea"/>
+      <text id="Home_Page" data-name="Home Page" transform="translate(1062 3538)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-54.814" y="21">Home Page</tspan></text>
+      <text id="No-2" data-name="No" transform="translate(1355 3074)" fill="#212121" font-size="20" font-family="OpenSans, Open Sans"><tspan x="-13.579" y="21">No</tspan></text>
+      <g id="Group_2258" data-name="Group 2258" transform="translate(5 482)">
+        <line id="Line_2-8" data-name="Line 2" y2="61.5" transform="translate(1122.5 2968)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-8" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <g id="Group_2259" data-name="Group 2259" transform="translate(-62 640)">
+        <line id="Line_2-9" data-name="Line 2" y2="59.5" transform="translate(1122.5 2974)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-9" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1488" data-name="Rectangle 1488" width="241" height="58" rx="6" transform="translate(936 3679)" fill="#eaeaea"/>
+      <text id="Product_Category" data-name="Product Category" transform="translate(969 3695)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-83.604" y="21">Product Category</tspan></text>
+      <rect id="Rectangle_1489" data-name="Rectangle 1489" width="241" height="58" rx="6" transform="translate(936 3803)" fill="#eaeaea"/>
+      <text id="Select_Product" data-name="Select Product" transform="translate(969 3819)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-69.121" y="21">Select Product</tspan></text>
+      <g id="Group_2260" data-name="Group 2260" transform="translate(-63 763)">
+        <line id="Line_2-10" data-name="Line 2" y2="59.5" transform="translate(1122.5 2974)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-10" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1490" data-name="Rectangle 1490" width="241" height="58" rx="6" transform="translate(936 3927)" fill="#eaeaea"/>
+      <text id="Product_details" data-name="Product details" transform="translate(969 3943)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-73.706" y="21">Product Details</tspan></text>
+      <g id="Group_2261" data-name="Group 2261" transform="translate(-63 887)">
+        <line id="Line_2-11" data-name="Line 2" y2="59.5" transform="translate(1122.5 2974)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-11" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1491" data-name="Rectangle 1491" width="241" height="58" rx="6" transform="translate(936 4051)" fill="#eaeaea"/>
+      <text id="Product_details_page" data-name="Product details page" transform="translate(948 4067)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-99.58" y="21">Product Details Page</tspan></text>
+      <g id="Group_2262" data-name="Group 2262" transform="translate(-63 1011)">
+        <line id="Line_2-12" data-name="Line 2" y2="59.5" transform="translate(1122.5 2974)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-12" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1492" data-name="Rectangle 1492" width="241" height="58" rx="6" transform="translate(936 4175)" fill="#eaeaea"/>
+      <text id="Add_to_cart" data-name="Add to cart" transform="translate(969 4191)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-55.718" y="21">Add To Cart</tspan></text>
+      <g id="Group_2263" data-name="Group 2263" transform="translate(-63 1135)">
+        <line id="Line_2-13" data-name="Line 2" y2="59.5" transform="translate(1122.5 2974)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-13" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <line id="Line_6" data-name="Line 6" x2="327" transform="translate(1060 3614)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Line_7" data-name="Line 7" y2="33" transform="translate(1122.5 3580.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Group_2264" data-name="Group 2264" transform="translate(264 640)">
+        <line id="Line_2-14" data-name="Line 2" y2="59.5" transform="translate(1122.5 2974)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-14" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1493" data-name="Rectangle 1493" width="241" height="58" rx="6" transform="translate(1275 3679)" fill="#eaeaea"/>
+      <text id="Services" transform="translate(1308 3695)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-39.292" y="21">Services</tspan></text>
+      <rect id="Rectangle_1494" data-name="Rectangle 1494" width="241" height="58" rx="6" transform="translate(1275 3803)" fill="#eaeaea"/>
+      <text id="Select_face_service" data-name="Select face service" transform="translate(1305 3819)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-90.146" y="21">Select Face Service</tspan></text>
+      <g id="Group_2265" data-name="Group 2265" transform="translate(276 763)">
+        <line id="Line_2-15" data-name="Line 2" y2="59.5" transform="translate(1122.5 2974)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-15" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1495" data-name="Rectangle 1495" width="241" height="58" rx="6" transform="translate(1275 3927)" fill="#eaeaea"/>
+      <text id="Face_Service_Detail" data-name="Face Service Detail" transform="translate(1303 3942)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-89.863" y="21">Face Service Detail</tspan></text>
+      <g id="Group_2266" data-name="Group 2266" transform="translate(276 887)">
+        <line id="Line_2-16" data-name="Line 2" y2="59.5" transform="translate(1122.5 2974)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-16" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1496" data-name="Rectangle 1496" width="241" height="58" rx="6" transform="translate(1275 4051)" fill="#eaeaea"/>
+      <text id="Book_Service" data-name="Book Service" transform="translate(1287 4067)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-61.558" y="21">Book Service</tspan></text>
+      <g id="Group_2267" data-name="Group 2267" transform="translate(276 1011)">
+        <line id="Line_2-17" data-name="Line 2" y2="59.5" transform="translate(1122.5 2974)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-17" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <g id="Group_2268" data-name="Group 2268" transform="translate(-63.032 1256.5)">
+        <line id="Line_2-18" data-name="Line 2" y2="57" transform="translate(1122.5 2976.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-18" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1497" data-name="Rectangle 1497" width="138.426" height="138.426" transform="translate(1059.882 4418.5) rotate(45)" fill="#e8644f"/>
+      <text id="Paymeant_Successful_" data-name="Paymeant
+Successful " transform="translate(1004 4485.382)" fill="#fff" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-48.716" y="21">Paymeant</tspan><tspan x="-50.01" y="53">Successful </tspan></text>
+      <line id="Line_8" data-name="Line 8" x1="84.5" transform="translate(854.5 4707.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Line_9" data-name="Line 9" y1="0.118" x2="117.5" transform="translate(1157.5 4516.382)" fill="none" stroke="#707070" stroke-width="1"/>
+      <rect id="Rectangle_1498" data-name="Rectangle 1498" width="241" height="58" rx="6" transform="translate(1275 4487)" fill="#eaeaea"/>
+      <text id="Re-try_Payment" data-name="Re-try Payment" transform="translate(1308 4503)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-75.317" y="21">Re-Try Payment</tspan></text>
+      <rect id="Rectangle_1499" data-name="Rectangle 1499" width="241" height="58" rx="6" transform="translate(939 4678)" fill="#eaeaea"/>
+      <text id="Place_Order" data-name="Place Order" transform="translate(972 4694)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-56.338" y="21">Place Order</tspan></text>
+      <g id="Group_2269" data-name="Group 2269" transform="translate(-63 1637.764)">
+        <line id="Line_2-19" data-name="Line 2" y2="57" transform="translate(1122.5 2976.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-19" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <line id="Line_10" data-name="Line 10" y1="160" transform="translate(1386.5 4327.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <rect id="Rectangle_1500" data-name="Rectangle 1500" width="241" height="58" rx="6" transform="translate(936 4297)" fill="#eaeaea"/>
+      <text id="Make_payment" data-name="Make payment" transform="translate(969 4313)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-71.821" y="21">Make Payment</tspan></text>
+      <g id="Group_2270" data-name="Group 2270" transform="translate(-63.032 1378.5)">
+        <line id="Line_2-20" data-name="Line 2" y2="57" transform="translate(1122.5 2976.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-20" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <g id="Group_2271" data-name="Group 2271" transform="translate(4217.5 3204.882) rotate(90)">
+        <line id="Line_2-21" data-name="Line 2" y2="202.5" transform="translate(1122.5 2831)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-21" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <text id="No-3" data-name="No" transform="translate(1192 4485)" fill="#212121" font-size="20" font-family="OpenSans, Open Sans"><tspan x="-13.579" y="21">No</tspan></text>
+      <text id="Yes-3" data-name="Yes" transform="translate(1016 4633)" fill="#212121" font-size="20" font-family="OpenSans, Open Sans"><tspan x="-15.483" y="21">Yes</tspan></text>
+      <rect id="Rectangle_1501" data-name="Rectangle 1501" width="241" height="58" rx="6" transform="translate(939 4799.736)" fill="#eaeaea"/>
+      <text id="Track_Order" data-name="Track Order" transform="translate(972 4815.736)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-56.626" y="21">Track Order</tspan></text>
+      <g id="Group_2272" data-name="Group 2272" transform="translate(-63 1759.5)">
+        <line id="Line_2-22" data-name="Line 2" y2="57" transform="translate(1122.5 2976.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-22" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <g id="Group_2273" data-name="Group 2273" transform="translate(-1771 5887.75) rotate(-90)">
+        <line id="Line_2-23" data-name="Line 2" y2="202.5" transform="translate(1122.5 2831)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-23" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1502" data-name="Rectangle 1502" width="195" height="58" rx="6" transform="translate(1269 4735)" fill="#eaeaea"/>
+      <text id="Cancel_Order" data-name="Cancel Order" transform="translate(1279 4751)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-62.871" y="21">Cancel Order</tspan></text>
+      <rect id="Rectangle_1503" data-name="Rectangle 1503" width="241" height="58" rx="6" transform="translate(529 4024)" fill="#eaeaea"/>
+      <text id="Product_Delivered" data-name="Product Delivered" transform="translate(562 4040)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-86.323" y="21">Product Delivered</tspan></text>
+      <line id="Line_11" data-name="Line 11" y1="655" transform="translate(854.5 4052.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <rect id="Rectangle_1504" data-name="Rectangle 1504" width="115.515" height="115.515" transform="translate(655.118 4145.5) rotate(45)" fill="#e8644f"/>
+      <text id="Exchange_Return" data-name="Exchange/
+Return" transform="translate(599.236 4201.382)" fill="#fff" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-49.561" y="21">Exchange/</tspan><tspan x="-33.091" y="46">Return</tspan></text>
+      <g id="Group_2274" data-name="Group 2274" transform="translate(-467.882 1331.764)">
+        <line id="Line_2-24" data-name="Line 2" y2="57" transform="translate(1122.5 2976.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-24" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <g id="Group_2275" data-name="Group 2275" transform="translate(-467.764 1105.5)">
+        <line id="Line_2-25" data-name="Line 2" y2="57" transform="translate(1122.5 2976.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-25" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1505" data-name="Rectangle 1505" width="185" height="58" rx="6" transform="translate(562 4371.764)" fill="#eaeaea"/>
+      <text id="Select_Product-2" data-name="Select Product" transform="translate(567 4387.764)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-69.121" y="21">Select Product</tspan></text>
+      <g id="Group_2276" data-name="Group 2276" transform="translate(-465.764 1453.264)">
+        <line id="Line_2-26" data-name="Line 2" y2="57" transform="translate(1122.5 2976.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-26" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <line id="Line_13" data-name="Line 13" x1="178" transform="translate(397 4227)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Group_2277" data-name="Group 2277" transform="translate(-726 1337.764)">
+        <line id="Line_2-27" data-name="Line 2" y2="144.264" transform="translate(1122.5 2889.236)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-27" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <text id="Return" transform="translate(450 4195)" fill="#212121" font-size="20" font-family="OpenSans, Open Sans"><tspan x="-31.68" y="21">Return</tspan></text>
+      <text id="Yes-4" data-name="Yes" transform="translate(605 4321)" fill="#212121" font-size="20" font-family="OpenSans, Open Sans"><tspan x="-15.483" y="21">Yes</tspan></text>
+      <rect id="Rectangle_1506" data-name="Rectangle 1506" width="115.515" height="115.515" transform="translate(657.118 4494.264) rotate(45)" fill="#e8644f"/>
+      <text id="Product_Available" data-name="Product Available" transform="translate(601.236 4550.146)" fill="#fff" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-37.832" y="21">Product </tspan><tspan x="-43.921" y="46">Available</tspan></text>
+      <rect id="Rectangle_1507" data-name="Rectangle 1507" width="181" height="58" rx="6" transform="translate(307 4377.764)" fill="#eaeaea"/>
+      <text id="Return_Order" data-name="Return Order" transform="translate(310 4393.764)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-63.975" y="21">Return Order</tspan></text>
+      <g id="Group_2278" data-name="Group 2278" transform="translate(-726 1442.264)">
+        <line id="Line_2-28" data-name="Line 2" y2="41.264" transform="translate(1122.5 2992.236)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-28" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1508" data-name="Rectangle 1508" width="181" height="58" rx="6" transform="translate(307 4482.264)" fill="#eaeaea"/>
+      <text id="Refund" transform="translate(310 4498.264)" fill="#212121" font-size="20" font-family="OpenSans, Open Sans"><tspan x="-33.584" y="21">Refund</tspan></text>
+      <text id="Refund-2" data-name="Refund" transform="translate(310 4498.264)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-34.707" y="21">Refund</tspan></text>
+      <rect id="Rectangle_1510" data-name="Rectangle 1510" width="181" height="58" rx="6" transform="translate(307 4586.764)" fill="#eaeaea"/>
+      <text id="Feedback" transform="translate(310 4602.764)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-45.776" y="21">Feedback</tspan></text>
+      <g id="Group_2279" data-name="Group 2279" transform="translate(-726 1653.264)">
+        <line id="Line_2-29" data-name="Line 2" y2="42.264" transform="translate(1122.5 2991.236)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-29" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <g id="Group_2280" data-name="Group 2280" transform="translate(-726 1547.764)">
+        <line id="Line_2-30" data-name="Line 2" y2="40.764" transform="translate(1122.5 2992.736)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-30" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <rect id="Rectangle_1511" data-name="Rectangle 1511" width="181" height="58" rx="6" transform="translate(307 4693.264)" fill="#eaeaea"/>
+      <text id="End" transform="translate(310 4709.264)" fill="#212121" font-size="20" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-18.159" y="21">End</tspan></text>
+      <line id="Line_14" data-name="Line 14" x1="35" transform="translate(541 4576)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Line_15" data-name="Line 15" y2="65" transform="translate(541.5 4511.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Group_2281" data-name="Group 2281" transform="translate(3528 3389.264) rotate(90)">
+        <line id="Line_2-31" data-name="Line 2" y2="47" transform="translate(1122.5 2986.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-31" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <text id="No-4" data-name="No" transform="translate(497 4482)" fill="#212121" font-size="20" font-family="OpenSans, Open Sans"><tspan x="-13.579" y="21">No</tspan></text>
+      <g id="Group_2282" data-name="Group 2282" transform="translate(3810 2930) rotate(90)">
+        <line id="Line_2-32" data-name="Line 2" y2="78" transform="translate(1122.5 2955.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-32" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <line id="Line_16" data-name="Line 16" y2="65" transform="translate(657.5 4657.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <g id="Group_2283" data-name="Group 2283" transform="translate(-2101 5845.264) rotate(-90)">
+        <line id="Line_2-33" data-name="Line 2" y2="275" transform="translate(1122.5 2758.5)" fill="none" stroke="#707070" stroke-width="1"/>
+        <path id="Polygon_1-33" data-name="Polygon 1" d="M6,0l6,10.5H0Z" transform="translate(1129 3040) rotate(180)" fill="#696969"/>
+      </g>
+      <text id="Yes-5" data-name="Yes" transform="translate(726 4694)" fill="#212121" font-size="20" font-family="OpenSans, Open Sans"><tspan x="-15.483" y="21">Yes</tspan></text>
+    </g>
+  </g>
+</svg>
