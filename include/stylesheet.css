@@ -2168,6 +2168,11 @@ h3.slickCaption2-alt {
 }
 }
 @media (max-width: 991px) {
+
+h1, h1 a, h1 a:link {
+	font-size: 40px;	
+}
+
 h2, h2 a, h2 a:link {
 	font-size: 32px;	
 }
@@ -2177,7 +2182,7 @@ h3, h3 a, h3 a:link {
 }
 
 h4, h4 a, h4 a:link {
-	font-size: 19px;	
+	font-size: 30px;	
 }
 
 ul.myaccount {
@@ -2237,7 +2242,7 @@ ul#navmenu-h {
 }
 
 ul#navmenu-h, ul#navmenu-h li {
-	display: block;
+	display: inline-block;
 	margin: 0;
 	padding: 0;
 }
@@ -2249,7 +2254,7 @@ ul#navmenu-h ul {
 
 ul#navmenu-h li {
 	border: none;
-	border-bottom: 1px solid #f1f1f1 !important;
+	/*border-bottom: 1px solid #f1f1f1 !important;*/
 	position: static;
 	border-top: 0;
 }
