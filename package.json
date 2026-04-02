@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
-    "build": "npm run build:vite",
+    "build": "npm run build:vite && cp dist/index.html dist/404.html",
     "build:vite": "npx vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist",
